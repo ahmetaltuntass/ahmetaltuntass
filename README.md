@@ -1,5 +1,5 @@
 <h1 align="center">Hello There, I'm Ahmet</h1>
-<h3 align="center">An Electronical Engineering student from Turkey</h3>
+<h3 align="center"> Electronical Engineering student from Turkey</h3>
 
 - ✒️I’m currently learning **Python & C++**
 
