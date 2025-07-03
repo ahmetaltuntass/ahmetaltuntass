@@ -1,17 +1,28 @@
-<h1 align="center">Hello There, I'm Ahmet</h1>
-<h3 align="center"> Electronical Engineering student from Turkey</h3>
+### Hi there 👋 
+### This is Ahmet!
 
-- ✒️I’m currently learning **C++**
-- Currently working on IoT Systems based on ESP32
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/ahmetaltuntass)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmetaltuntas302)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:ahmetaltuntas302@gmail.com)
 
-- 📩How to reach me **ahmetaltuntas302@gmail.com**
+Welcome to my Github page! I am Ahmet and I am currently finishing my Electrical & Electronics Bachelor's degree at the university of Aydin Adnan Menderes in Turkey!  
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/ahmetaltuntas302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ahmetaltuntas302/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/ahmetaltuntas302/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/ahmetaltuntas302/" height="30" width="40" /></a>
-<a href="https://discord.gg/u/notshiloh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="u/notshiloh" height="30" width="40" /></a>
-</p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+
+#### 🌱 Things I am currently working on: 
+- Finish my Electrical & Electronics Bachelor's Degree  
+- Taking online courses about **Embedded Systems**, **IoT Protocols (MQTT,HTTP)**
+
+
+#### :muscle: Things I am challenging myself with:
+- Waking up earlier to make good use of the day
+- Exercising 3 days a week
+- Improving my CV with some education apart from university
+
+#### :computer: Programming languages and tools: 
+![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
+![PlatformIO](https://img.shields.io/badge/PlatformIO-FF9E0F?style=for-the-badge&logo=platformio&logoColor=white)
+![Embedded C](https://img.shields.io/badge/Embedded_C-00599C?style=for-the-badge&logo=c&logoColor=white)
+
