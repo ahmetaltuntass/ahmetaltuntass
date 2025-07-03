@@ -1,7 +1,8 @@
 <h1 align="center">Hello There, I'm Ahmet</h1>
 <h3 align="center"> Electronical Engineering student from Turkey</h3>
 
-- ✒️I’m currently learning **Python & C++**
+- ✒️I’m currently learning **C++**
+- Currently working on IoT Systems based on ESP32
 
 - 📩How to reach me **ahmetaltuntas302@gmail.com**
 
